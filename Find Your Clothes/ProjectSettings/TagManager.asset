@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1881731309
+    locked: 0
+  - name: Background2
+    uniqueID: 716876611
+    locked: 0
+  - name: Interactables
+    uniqueID: 1701460429
+    locked: 0
+  - name: Entities
+    uniqueID: 196881495
+    locked: 0
+  - name: Shadow
+    uniqueID: 918923175
+    locked: 0
